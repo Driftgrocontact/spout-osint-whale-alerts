@@ -1,0 +1,4 @@
+repository:
+  homepage: https://awesomeosint.tools/spout/
+  description: "OSINT monitor of large crypto wallets and big transfers."
+  topics: osint, crypto, whale-alert, blockchain-monitoring, on-chain
